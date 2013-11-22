@@ -11,6 +11,7 @@ COMPILE TOOLS
 ===============
 * C
 * SOMCompiler
+* IBM VisualAge for C
 
 AUTHORS
 ===============
